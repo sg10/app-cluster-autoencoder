@@ -41,12 +41,12 @@ permission-related functionality was found.
 **Embeddings of descriptions visualized with PCA and t-SNE. The highlighted data points
 show that t-SNE puts apps that are in the same category closer to each other.**
 
-![Descriptions Plot](https://github.com/sg10/app-cluster-autoencoder/plots/descriptions.png "Descriptions Plot")
+![Descriptions Plot](https://github.com/sg10/app-cluster-autoencoder/blob/master/plots/descriptions.png "Descriptions Plot")
 
 
 **Permission embeddings dissimilarity: Highlighting of anti-malware apps and web
 browsers in the dataset (5M+ downloads). Outliers and clusters are useful starting points
 for in-depth analysis.**
 
-![Permissions Plot](https://github.com/sg10/app-cluster-autoencoder/plots/permissions.png "Permissions Plot")
+![Permissions Plot](https://github.com/sg10/app-cluster-autoencoder/blob/master/plots/permissions.png "Permissions Plot")
 

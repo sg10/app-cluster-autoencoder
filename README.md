@@ -27,7 +27,7 @@ permission-related functionality was found.
 
 ### Descriptions
 
-**Neighbors in the 10d- to 2-d description subspace of WhatsApp Messenger via PCA (Principle Component Analysis) and t-SNE (Stochastic Neighborhood Embedding with t-Distribution)**
+#### Neighbors in the 10d- to 2-d description subspace of WhatsApp Messenger via PCA (Principle Component Analysis) and t-SNE (Stochastic Neighborhood Embedding with t-Distribution)
 
 | Po | PCA                       | t-SNE                           |
 | -- | ------------------------- | ------------------------------- |
@@ -38,15 +38,12 @@ permission-related functionality was found.
 | 5  | Meme Generator Free       | Azar-Video Chat&Call, Messenger |
 
 
-**Embeddings of descriptions visualized with PCA and t-SNE. The highlighted data points
-show that t-SNE puts apps that are in the same category closer to each other.**
+#### Embeddings of descriptions visualized with PCA and t-SNE. The highlighted data points show that t-SNE puts apps that are in the same category closer to each other.
 
 ![Descriptions Plot](https://github.com/sg10/app-cluster-autoencoder/blob/master/plots/descriptions.png "Descriptions Plot")
 
 
-**Permission embeddings dissimilarity: Highlighting of anti-malware apps and web
-browsers in the dataset (5M+ downloads). Outliers and clusters are useful starting points
-for in-depth analysis.**
+#### Permission embeddings dissimilarity: Highlighting of anti-malware apps and web browsers in the dataset with t-SNE (5M+ downloads). Outliers and clusters are useful starting points for in-depth analysis.
 
 ![Permissions Plot](https://github.com/sg10/app-cluster-autoencoder/blob/master/plots/permissions.png "Permissions Plot")
 

@@ -48,5 +48,5 @@ show that t-SNE puts apps that are in the same category closer to each other.**
 browsers in the dataset (5M+ downloads). Outliers and clusters are useful starting points
 for in-depth analysis.**
 
-![Permissions Plot](https://github.com/sg10/app-cluster-autoencoder/plots/descriptions.png "Permissions Plot")
+![Permissions Plot](https://github.com/sg10/app-cluster-autoencoder/plots/permissions.png "Permissions Plot")
 
